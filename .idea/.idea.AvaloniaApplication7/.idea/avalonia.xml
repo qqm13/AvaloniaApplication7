@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="AvaloniaApplication7/PasswordBox.axaml" value="AvaloniaApplication7/AvaloniaApplication7.csproj" />
+        <entry key="AvaloniaApplication7/Views/EmployeeEditor.axaml" value="AvaloniaApplication7/AvaloniaApplication7.csproj" />
+        <entry key="AvaloniaApplication7/Views/EmployeesView.axaml" value="AvaloniaApplication7/AvaloniaApplication7.csproj" />
+        <entry key="AvaloniaApplication7/Views/LoginWindow.axaml" value="AvaloniaApplication7/AvaloniaApplication7.csproj" />
+        <entry key="AvaloniaApplication7/Views/MainWindow.axaml" value="AvaloniaApplication7/AvaloniaApplication7.csproj" />
+        <entry key="AvaloniaApplication7/Views/ShiftEditor.axaml" value="AvaloniaApplication7/AvaloniaApplication7.csproj" />
+        <entry key="AvaloniaApplication7/Views/ShiftsView.axaml" value="AvaloniaApplication7/AvaloniaApplication7.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

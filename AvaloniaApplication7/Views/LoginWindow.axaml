@@ -21,9 +21,7 @@
        </Window.Styles>-->
   
 <Grid RowDefinitions="50 Auto">
-    <DataGrid Grid.Row="1" ItemsSource="{Binding CredentialDTO}" SelectedItem="{Binding SelectedPurchaseItem}">
-        
-    </DataGrid>
+  
 </Grid>
  
 
